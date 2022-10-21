@@ -1,15 +1,11 @@
-<h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Ciao, I'm Saumya! </h1>
+<h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Holla, I'm Harshil! </h1>
 
-I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, India. I am currently pursuing my Bachelor of Engineering degree in Electronics and Communication Engineering from Netaji Subhas Institute of Technology, New Delhi.
+I am a Tech and Coding enthusiast and a Software Developer based in Ahmedabad, India. I completed my Bachelor of Engineering degree in Information Technology from Vishwakarma Government Engineering College, Gujarat.
 
 
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Experience: 
 
-- Software Engineer at **Google**.
-- Former *SDE* intern at **Salesforce** where I was a part of their Security Infrastructure Team.
-- Was also a part of the **Microsoft** Codess Mentorship Program 2020.
-- Served as the *Web Lead* for **Google Developer Students Club** of NSUT.
-- Former *Teaching Assistant* at **Coding Ninjas** for the Data Structures and Algorithms course.
+- Software Engineer at **AIVID Techvision**.
 
 <br>
 
